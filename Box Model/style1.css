@@ -1,0 +1,29 @@
+div{
+    color: lime;
+    height: 100px;
+    width: 500px;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: greenyellow; */
+    border: 2px solid black;
+    border-radius: 5px;
+    border-top-right-radius: 20px;
+    padding: 30px;
+
+    margin-bottom: 25px;
+}
+
+strong {
+    font-size: 50px;
+    display: inline;
+    text-decoration: underline;
+    color: lightcoral;
+}
+button{
+    /* padding-left: 30px;
+    padding-right: 30px; */
+    padding: 10px 30px 10px;
+    border-radius: 30px;
+    border-color: rgb(rgb(88, 4, 4), green, blue);
+
+}

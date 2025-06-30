@@ -1,0 +1,26 @@
+#container{
+    height: 500px;
+    width: 1000px;
+    color: blue;
+    border: 2px solid black;
+    margin: 10px auto;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; 
+    justify-content: space-around;  */
+    /* flex-wrap: wrap;
+    align-items: flex-start; 
+    align-content: baseline; */
+
+}
+h1{
+    text-align: center;
+}
+#container div{
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    font-size: 1.5em;
+
+}

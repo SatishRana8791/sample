@@ -1,0 +1,27 @@
+/* div {
+    height: 400px;
+    width: 600px;
+    border: 2px solid black;
+    
+    background-image: url("nature.jpg");
+    background-size: cover;
+    margin: 10px auto;
+    text-align: center;
+} */
+
+ .manid
+ {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    box-shadow: 10px;
+    margin: 30px;
+ }
+ img {
+    width: 100%;
+    height: 50%;
+    background-size: contain;
+ }
+ .desc {
+    padding: 2px;
+ }
